@@ -1,14 +1,17 @@
 .title {
-    -fx-font-size: 18px;
+    -fx-font-size: 20px;
     -fx-font-weight: bold;
-    -fx-text-fill: #008080;
+    -fx-text-fill: #000000;
 }
 
 .text-field {
-    -fx-background-color: #F0F0F0;
+    -fx-background-color: #FAAAAF;
+    -fx-prompt-text-fill: white;
+    -fx-text-fill: black;
 }
 
 .button {
-    -fx-background-color: #FFA500;
+    -fx-background-color: #F56;
     -fx-text-fill: white;
+    -fx-font-weight: bold;
 }
